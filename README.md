@@ -10,10 +10,6 @@ Olá, meu nome é Thiago de Salvo e atualmente faço **Sistemas de Informação*
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to source">
     <img src="https://github-readme-stats.vercel.app/api?username=Thiago-Salvo&theme=merko&hide_border=true&rank_icon=github" />
   </a>
-  <!--Ofensiva-->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Thiago-Salvo&theme=merko&border_radius=5&hide_border=true" alt="GitHub Streak" />
-  </a>
 </div>
 <!--Lista das lingugens mais utilizadas-->
 <div align=center>
