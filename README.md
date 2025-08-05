@@ -2,7 +2,17 @@
 ## 🌟 Sobre Mim
 Olá, meu nome é Thiago de Salvo e atualmente faço **Sistemas de Informação** na **USP**
 
-<!--Estátiticas do git, segundo bloco do readme-->
+<!--Linguagens, segundo bloco do readme-->
+## 📖 Linguagens que estou estudando
+<!--Div que guarda os icones-->
+<div align=left style="display: inline_block;">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,git,js,html,css&theme=dark" />
+  </a>
+</div>
+
+
+<!--Estátiticas do git, terceiro bloco do readme-->
 ## 📈 Estátisticas
 <!--Dados e Ofensiva-->
 <div align=center>
@@ -18,7 +28,7 @@ Olá, meu nome é Thiago de Salvo e atualmente faço **Sistemas de Informação*
   </a>
 </div>
 
-<!--Formas de contato, terceiro bloco do readme-->
+<!--Formas de contato, quarto bloco do readme-->
 ## ✉️ Contato:
 
 <!--Botão do Linkedin-->
