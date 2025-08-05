@@ -20,10 +20,6 @@ Olá, meu nome é Thiago de Salvo e atualmente faço **Sistemas de Informação*
 
 <!--Formas de contato, terceiro bloco do readme-->
 ## ✉️ Contato:
-<!--Botão do Github-->
-<a href="https://github.com/Thiago-Salvo">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=GitHub title=Github />
-</a>
 
 <!--Botão do Linkedin-->
 <a href="https://www.linkedin.com/in/thiago-salvo-b0351435b/">
