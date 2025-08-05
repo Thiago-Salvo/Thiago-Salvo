@@ -2,8 +2,8 @@
 ## 🌟 Sobre Mim
 Olá, meu nome é Thiago de Salvo e atualmente faço **Sistemas de Informação** na **USP**
 
-<!--Estatiticas do git, segundo bloco do readme-->
-<h2 align=left><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Estatisticas</h2>
+<!--Estátiticas do git, segundo bloco do readme-->
+## 📈 Estátisticas
 <!--Dados e Ofensiva-->
 <div align=center>
   <!--Dados-->
