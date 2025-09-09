@@ -1,8 +1,8 @@
 <!--Apresentação básica, primeiro bloco do readme-->
 ## 🌟 Sobre Mim
-Desde pequeno, sou apaixonado por tecnologia e sempre tive a grande curiosidade em entender como todo esse mundo funciona, principalemnte sites e aplicativos. Com o tempo, essa curiosidade se transformou em propósito e, durante o ensino médio no *COLTEC-UFMG*, no curso de Eletrônica, descobri na programação o caminho que gostaria de seguir.
+Desde pequeno, sou apaixonado por tecnologia e sempre tive a grande curiosidade em entender como todo esse mundo funciona, principalemnte sites e aplicativos. Com o tempo, essa curiosidade se transformou em propósito e, durante o ensino médio no **COLTEC-UFMG**, no curso de Eletrônica, descobri na programação o caminho que gostaria de seguir.
 
-Hoje sou estudante de *Sistemas de Informação na USP*, onde aprofundo meus conhecimentos em desenvolvimento de software, ciência de dados e automações inteligentes. Atualmente, faço parte do grupo de estudos *Hype*, focado em ciência de dados e inteligência artificial, no qual desenvolvemos projetos públicos para aprimorar nossas habilidades.
+Hoje sou estudante de **Sistemas de Informação na USP**, onde aprofundo meus conhecimentos em desenvolvimento de software, ciência de dados e automações inteligentes. Atualmente, faço parte do grupo de estudos **Hype**, focado em ciência de dados e inteligência artificial, no qual desenvolvemos projetos públicos para aprimorar nossas habilidades.
 
 Estou constantemente em busca de aprendizado e desafios que me permitam evoluir e me tornar um excelente desenvolvedor de software.
 
